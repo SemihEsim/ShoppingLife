@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuUI.unity
+    guid: d943d77ed5ac9d84190b1f47f9621ea6
+  - enabled: 1
+    path: Assets/Scenes/LevelMenu.unity
+    guid: d3d117b6048a52e4381d03a13e7317c5
+  - enabled: 0
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: bcb427828d1b6304585a345d9f49536d
+  - enabled: 1
+    path: Assets/Scenes/MainMenu 1.unity
+    guid: cb13798c9b5bf0a498d2c010d8d880c3
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 919bfd298985bfc4e9dbd2ba78e90950
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 122074f146ebd9346b84d8a0b5f870bf
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: f8c7a2289f3ab9f48a609a49993f3ae9
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: ba4d5065d09869b4ca5b74a15f9ecce9
+  - enabled: 1
+    path: Assets/Scenes/Level 7.unity
+    guid: c93f7917faa8e924fb8650b2226c5f53
+  - enabled: 1
+    path: Assets/Scenes/Level 8.unity
+    guid: 2676f7a8571afab4f8e0bc519dabf208
+  - enabled: 1
+    path: Assets/Scenes/Level 9.unity
+    guid: 95b8537f6b795c241a6ff14711123949
+  - enabled: 0
+    path: Assets/Scenes/MainMenu 9.unity
+    guid: 7b4fe7773e5665343b6199cd3f6033da
+  - enabled: 0
+    path: Assets/Scenes/MainMenu 10.unity
+    guid: 60f0dd030b08c134f8527e30363e5318
+  - enabled: 0
+    path: Assets/Scenes/MainMenu 11.unity
+    guid: 058bd4664f155994886d81489f51263d
+  - enabled: 0
+    path: Assets/Scenes/MainMenu 12.unity
+    guid: 7b3f19094d224504797298802b9d94f9
+  - enabled: 0
+    path: Assets/Scenes/MainMenu 13.unity
+    guid: 9df76cc1fa0479d46b59f900a605c036
+  - enabled: 0
+    path: Assets/Scenes/MainMenu 14.unity
+    guid: f64b9ad54b01f1f4b80fab97b7140ef2
+  - enabled: 0
+    path: Assets/Scenes/MainMenu 15.unity
+    guid: 6ed2a0a39e9d9004bb8fb7093205b508
+  - enabled: 0
+    path: Assets/Scenes/MainMenu 2.unity
+    guid: 7ab38d6e39b291740b6e7c42a35c50a8
+  - enabled: 0
+    path: Assets/Scenes/MainMenu 3.unity
+    guid: ec79cc349cdcb46469f43a14dd25679d
+  - enabled: 0
+    path: Assets/Scenes/MainMenu 4.unity
+    guid: 6db950f19539ca4428acb21f54d586ae
+  - enabled: 0
+    path: Assets/Scenes/MainMenu 5.unity
+    guid: 07119f1efde2f774284f5c235da320d5
+  - enabled: 0
+    path: Assets/Scenes/MainMenu 6.unity
+    guid: 7146fd34bca662f49ac5c6114e21b339
+  - enabled: 0
+    path: Assets/Scenes/MainMenu 7.unity
+    guid: 240fa961ca5efd543a9311bc7cfe37a7
+  - enabled: 0
+    path: Assets/Scenes/MainMenu 8.unity
+    guid: ee3e4ebd3a8124d4c8dadd40a9bdcdfb
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: cf9e35d4f0827d841bb1df6136ca3164,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: c407e239c53b4944f809a32ac4c59ac6, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 1b9b27f50a0b48e4a991fc0088d137e2, type: 2}

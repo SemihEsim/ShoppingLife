@@ -1,0 +1,3 @@
+rep "Shopping Life@ShoppingLife@cloud"
+  path "/"
+    smartbranch "/main"

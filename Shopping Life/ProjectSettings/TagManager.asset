@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Finish2
+  - Finish3
+  - HumanFinish
+  - Human
+  - ShopFinish
+  - ShopExitFinish
+  - ShopExitFinish1
+  - ShopFinish1
+  - ShopFinish2
+  - ShopFinish3
+  - ShopFinish4
+  - ShopFinish5
+  - ShopExitFinish2
+  - ShopExitFinish3
+  - ShopExitFinish4
+  - ShopExitFinish5
+  - ExtraFinish1
+  - ExtraFinish2
+  - ExtraFinish3
+  - Bus
+  - Bus_Start
+  - ExtraFinish4
+  - ExtraFinish5
+  - ExtraFinish6
+  - ExtraExFinish
+  - ExtraExFinish2
+  - ExtraExFinish3
+  - ExtraFinish7
+  - ExtraFinish8
+  - ExtraFinish9
+  - ExtraExFinish4
+  - ExtraFinish10
+  - ExtraFinish11
+  - ExtraFinish12
+  - ExtraFinish13
+  - ExtraFinish14
+  - ExtraFinish15
+  - ExtraExFinish5
+  - ExtraExFinish6
+  - Bus_End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
